@@ -6,7 +6,8 @@
 - 💬 Ask me about **I`m a Junior Full Stack Developer. Loking for interesting job in friendly company to develop my skills as well as work with a team**
 
 - 📫 How to reach me **kreculvitalii@gmail.com**
-- ✨ My resume **https://drive.google.com/file/d/1D6txFjD8thpviSZPcY_p05ZR49BbnCn5/view**
+- ✨ My resume **https://drive.google.com/file/d/1Ropd5xCYhq2Udpi2QmScNLhTBZKbo4zF/view**
+- 🎆 My WebSite/PortFolio **https://kretsul.com.ua**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
