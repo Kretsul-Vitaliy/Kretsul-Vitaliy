@@ -11,6 +11,8 @@
 
 - 🎆 My WebSite/PortFolio **https://kretsul.com.ua**
 
+- &#9658; My Upwork/Profile **https://www.upwork.com/freelancers/~0114b62b02acceeaf8** 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vitalii-kretsul-442213b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitalii-kretsul-442213b6/" height="30" width="40" /></a>
