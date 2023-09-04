@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kreculvitalii@gmail.com**
 
-- ✨ My resume **https://drive.google.com/file/d/1VGgZi_hvM6EEPKe_jmiDT84Ww2_iv-0S/view?usp=drive_link**
+- ✨ My resume **https://drive.google.com/file/d/1W58Nd3q0VhUpOnOo780WUbic1UCYEnbt/view?usp=sharing**
 
 - 🎆 My WebSite/PortFolio **https://kretsulvitalii.netlify.app/**
 
