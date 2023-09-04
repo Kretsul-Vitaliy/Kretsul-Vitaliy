@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitalii Kretsul</h1>
-<h3 align="center">I`m a Junior Full Stack Developer from Ukraine</h3>
+<h3 align="center">I`m Full-stack Web Developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kretsul-vitaliy&label=Profile%20views&color=0e75b6&style=flat" alt="kretsul-vitaliy" /> </p>
 
