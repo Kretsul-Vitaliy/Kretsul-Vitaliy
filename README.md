@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **kreculvitalii@gmail.com**
 
-- ✨ My resume **https://drive.google.com/file/d/1YlX0R6CdTpG51pIDGquOcqdgnTfps7Ih/view?usp=share_link**
+- ✨ My resume **https://drive.google.com/file/d/1VGgZi_hvM6EEPKe_jmiDT84Ww2_iv-0S/view?usp=drive_link**
 
-- 🎆 My WebSite/PortFolio **https://kretsul.com.ua**
+- 🎆 My WebSite/PortFolio **https://kretsulvitalii.netlify.app/**
 
-- &#9658; My Upwork/Profile **https://www.upwork.com/freelancers/~0114b62b02acceeaf8** 
+- &#9658; My Upwork/Profile **https://www.upwork.com/freelancers/kretsulvitalii**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
